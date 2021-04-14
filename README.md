@@ -2,7 +2,18 @@
 
 Based on DACON Challenge : https://dacon.io/competitions/official/235701/overview/description/  
 Datas can be downloaded on DACON Challenge webpage above as well  
-to run the code, test datas must be at skeleton/data/Dacon/test_imgs  
+
+used Alphapose : https://github.com/MVIG-SJTU/AlphaPose  
+can download pretrained models at : https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/MODEL_ZOO.md
+
+the best value was with COCO17_duc.py
+
+run by main_coco_dcn.py, baseline_submission_coco_dcn.csv would be result.
+
+
+to run the code,  
+(1)test datas must be at skeleton/data/Dacon/test_imgs  
+(2)pretrained models should be at skeleton/pretrained_models/
 code can be run in several versions of alphapose, based on COCO17, halpe27 keypoints.
 
 
@@ -39,11 +50,6 @@ used COCO17 as baselines, added new points with hard-coded rules
 
 __ranked 16/156(public), 16/156(Private)__
 
-used Alphapose : https://github.com/MVIG-SJTU/AlphaPose
-
-the best value was with COCO17_duc.py
-
-run by main_coco_dcn.py, baseline_submission_coco_dcn.csv would be result.
 
 
 
