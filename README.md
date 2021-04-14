@@ -3,6 +3,13 @@
 Based on DACON Challenge : https://dacon.io/competitions/official/235701/overview/description/
 datas would be available on DACON as well
 
+to run the code, there should be data, pretrained models, detectors weight  
+(1) Test data should be available on DACON Challenge above(on Data tab, it should be at skeleton/data/Dacon/train_imgs/~)  
+(2) For Alphapose, pretrained models should be at skeleton/pretrained_models/ : Available at https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/MODEL_ZOO.md
+(3) Detectors require /detector/data/jde.1088x608.uncertainty.pt, and skeleton/detector/yolo/data/yolov3-spp.weights  
+can be done with install at : https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/INSTALL.md, code installation part
+
+
 ### task : to find 24 points useful for exercise motion detection
 
 used COCO17 as baselines, added new points with hard-coded rules
