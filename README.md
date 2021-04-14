@@ -1,9 +1,9 @@
 # Skeleton Extraction(Pose Estimation)
 
-Try to solve DACON Challenge : https://dacon.io/competitions/official/235701/overview/description/  
+Try to solve __DACON Challenge__ : https://dacon.io/competitions/official/235701/overview/description/  
 Datas would be available on DACON Challenge, if you sign in and participate in that challenge
 
-To run the code, there should be data, pretrained models, detectors weight  
+### To run the code, there should be data, pretrained models, detectors weight  
 (1) Test data should be available on DACON Challenge above(on Data tab, it should be at skeleton/data/Dacon/train_imgs/~)  
 (2) For Alphapose, pretrained models should be at skeleton/pretrained_models/ : Available at https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/MODEL_ZOO.md
 (3) Detectors require /detector/data/jde.1088x608.uncertainty.pt, and skeleton/detector/yolo/data/yolov3-spp.weights  
