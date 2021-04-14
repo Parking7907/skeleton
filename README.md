@@ -3,9 +3,11 @@
 Based on DACON Challenge : https://dacon.io/competitions/official/235701/overview/description/
 datas would be available on DACON as well
 
+
 ### task : to find 24 points useful for exercise motion detection
 
 used COCO17 as baselines, added new points with hard-coded rules
+![image](https://user-images.githubusercontent.com/52812373/114645753-fe857d00-9d14-11eb-8e92-7962485c980c.png)
 
         #0~16 == Halpe
         y[f][0] = data[f]['name'] + '.jpg'
