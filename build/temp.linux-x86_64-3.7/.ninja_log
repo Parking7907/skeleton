@@ -1,0 +1,27 @@
+# ninja log v5
+0	1469	1612165703639350089	/home/jinyoung/share/st-gcn/data/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/soft_nms_cpu.o	3b03f9175e946848
+0	12440	1612165716231123388	/home/jinyoung/share/st-gcn/data/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/nms_cpu.o	955a829889cf5209
+0	6322	1612165723015001346	/home/jinyoung/share/st-gcn/data/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/nms_kernel.o	9da0121e9e697b69
+0	1280	1612167680349852507	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/soft_nms_cpu.o	37004ecceee1863f
+0	12580	1612167693077634431	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/nms_cpu.o	77386d71b3104058
+0	6429	1612167700089514289	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/nms_kernel.o	808b634d97084c1f
+0	1336	1612176995703012524	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/soft_nms_cpu.o	37004ecceee1863f
+2	12760	1612177008594763207	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/nms_cpu.o	77386d71b3104058
+0	6467	1612177015430633974	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/nms_kernel.o	808b634d97084c1f
+0	12477	1612177021442521989	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/nms_cuda.o	1d548d29d18cd67d
+0	6541	1612177028346395293	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/utils/roi_align/src/roi_align_kernel.o	4a6ab181a62a69c4
+0	12653	1612177034458284811	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/utils/roi_align/src/roi_align_cuda.o	9e0f992456c41ec5
+0	7172	1612177041994150723	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/models/layers/dcn/src/deform_conv_cuda_kernel.o	e0d01fb40f3f9084
+0	14183	1612177049006028058	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/models/layers/dcn/src/deform_conv_cuda.o	34e93a4f71104c3b
+0	6606	1612177055973908138	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/models/layers/dcn/src/deform_pool_cuda_kernel.o	a67ff80d36195390
+0	12803	1612177062169803134	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/models/layers/dcn/src/deform_pool_cuda.o	d3732374e24bb96
+0	1343	1612177063941773380	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/soft_nms_cpu.o	adbbd254a4ef96b6
+2	12483	1612177076565564981	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/nms_cpu.o	3ccf1ed88f4595f6
+3	6378	1612177083321455972	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/nms_kernel.o	aa72467bf8bc2203
+2	12435	1612177089381359664	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/detector/nms/src/nms_cuda.o	76b87a0b3ce57d29
+3	6309	1612177096037255464	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/utils/roi_align/src/roi_align_kernel.o	4431e3d1d527f4db
+2	12882	1612177102613154131	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/utils/roi_align/src/roi_align_cuda.o	9c4afa8132907c9d
+2	6988	1612177109961042759	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/models/layers/dcn/src/deform_conv_cuda_kernel.o	611ef5ae212a8de8
+2	14180	1612177117152935636	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/models/layers/dcn/src/deform_conv_cuda.o	32f938e226ec2fa
+2	6701	1612177124220832147	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/models/layers/dcn/src/deform_pool_cuda_kernel.o	1908216cfc99dc87
+2	12866	1612177130384743321	/home/jinyoung/share/AlphaPose/build/temp.linux-x86_64-3.7/alphapose/models/layers/dcn/src/deform_pool_cuda.o	74ce61eb50d0060f

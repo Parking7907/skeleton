@@ -1,30 +1,11 @@
 # skeleton
 
-Based on DACON Challenge : https://dacon.io/competitions/official/235701/overview/description/  
-Datas can be downloaded on DACON Challenge webpage above as well  
-
-used Alphapose : https://github.com/MVIG-SJTU/AlphaPose  
-can download pretrained models at : https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/MODEL_ZOO.md
-
-the best value was with COCO17_duc.py
-
-run by main_coco_dcn.py, baseline_submission_coco_dcn.csv would be result.
-
-
-to run the code,  
-(1)test datas must be at skeleton/data/Dacon/test_imgs  
-(2)pretrained models should be at skeleton/pretrained_models/
-(3)jde. 1088x608.unceratinty.pt should be at /skeleton/detector/data/
-(4)yolov3-spp.weights should be at /skeleton/detector/yolo/data/
-
-for(3), (4), you can follow : https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/INSTALL.md, code installation part.
-code can be run in several versions of alphapose, based on COCO17, halpe27 keypoints.
-
+Based on DACON Challenge : https://dacon.io/competitions/official/235701/overview/description/
+datas would be available on DACON as well
 
 ### task : to find 24 points useful for exercise motion detection
 
 used COCO17 as baselines, added new points with hard-coded rules
-![image](https://user-images.githubusercontent.com/52812373/114645753-fe857d00-9d14-11eb-8e92-7962485c980c.png)
 
         #0~16 == Halpe
         y[f][0] = data[f]['name'] + '.jpg'
@@ -54,6 +35,11 @@ used COCO17 as baselines, added new points with hard-coded rules
 
 __ranked 16/156(public), 16/156(Private)__
 
+used Alphapose : https://github.com/MVIG-SJTU/AlphaPose
+
+the best value was with COCO17_duc.py
+
+run by main_coco_dcn.py, baseline_submission_coco_dcn.csv would be result.
 
 
 
