@@ -14,6 +14,10 @@ run by main_coco_dcn.py, baseline_submission_coco_dcn.csv would be result.
 to run the code,  
 (1)test datas must be at skeleton/data/Dacon/test_imgs  
 (2)pretrained models should be at skeleton/pretrained_models/
+(3)jde. 1088x608.unceratinty.pt should be at /skeleton/detector/data/
+(4)yolov3-spp.weights should be at /skeleton/detector/yolo/data/
+
+for(3), (4), you can follow : https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/INSTALL.md, code installation part.
 code can be run in several versions of alphapose, based on COCO17, halpe27 keypoints.
 
 
