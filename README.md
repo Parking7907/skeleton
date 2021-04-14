@@ -1,7 +1,9 @@
 # skeleton
 
-Based on DACON Challenge : https://dacon.io/competitions/official/235701/overview/description/
-datas would be available on DACON as well
+Based on DACON Challenge : https://dacon.io/competitions/official/235701/overview/description/  
+Datas can be downloaded on DACON Challenge webpage above as well  
+to run the code, test datas must be at skeleton/data/Dacon/test_imgs  
+code can be run in several versions of alphapose, based on COCO17, halpe27 keypoints.
 
 
 ### task : to find 24 points useful for exercise motion detection
