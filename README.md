@@ -3,7 +3,7 @@
 Try to solve __DACON Challenge__ : https://dacon.io/competitions/official/235701/overview/description/  
 Datas would be available on DACON Challenge, if you sign in and participate in that challenge
 
-### 푸른절미 Ranked 16/156(11%) in total challenge (public : 16/156, private : 16/156) -
+### (푸른절미) Ranked 16/156(11%) in total challenge (public : 16/156, private : 16/156) -
 
 ### To run the code, there should be test data, pretrained models, detectors weight  
 (1) Test data should be available on DACON Challenge above(on Data tab, it should be at skeleton/data/Dacon/train_imgs/~)  
